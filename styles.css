@@ -1,8 +1,5 @@
 /*  your css code here. If applicable */
-.selector{
-	color:#00f
-/* 	background-color: #eee; */
-}
-div{
-	background-color:#eee;
-}
+.selector {
+      color: #00f; /* Font color */
+      background-color: #eee; /* Background color */
+    }
